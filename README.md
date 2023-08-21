@@ -1,6 +1,6 @@
 # ALURABOOKS
 Alura Responsiveness Project
-https://img.shields.io/badge/Status-Conclu%C3%ADdo-green
+Status: Concluded ✅
 
 ## GOAL
 This project was made with the objective of improving my performance with HTML and CSS and further developing the work with the Media Queries that are so important for the responsive design of the site.
